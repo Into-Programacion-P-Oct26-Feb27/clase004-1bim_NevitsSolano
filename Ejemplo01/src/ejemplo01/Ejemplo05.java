@@ -30,3 +30,4 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
     }
 }
+    

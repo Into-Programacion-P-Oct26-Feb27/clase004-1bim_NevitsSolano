@@ -15,10 +15,10 @@ public class Ejemplo08 {
         
         boolean a = true;
         boolean b = false;
-        boolean c = a || b;
-        boolean d = a && b;
-        System.out.printf("El resultados de la variable 'c' es: %s\n", c);
-        System.out.printf("El resultados de la variable 'd' es: %s\n", d);
+        boolean c = a || b; //true or false // true
+        boolean d = a && b; // true and false // false
+        System.out.printf("El resultado de la variable 'c' es: %s\n", c);
+        System.out.printf("El resultado de la variable 'd' es: %s\n", d);
         
               
     }
